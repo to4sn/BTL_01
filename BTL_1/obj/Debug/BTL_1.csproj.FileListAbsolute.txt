@@ -1,0 +1,10 @@
+C:\Users\admin88\source\repos\BTL_1\BTL_1\bin\Debug\BTL_1.exe.config
+C:\Users\admin88\source\repos\BTL_1\BTL_1\bin\Debug\BTL_1.exe
+C:\Users\admin88\source\repos\BTL_1\BTL_1\bin\Debug\BTL_1.pdb
+C:\Users\admin88\source\repos\BTL_1\BTL_1\obj\Debug\BTL_1.csproj.AssemblyReference.cache
+C:\Users\admin88\source\repos\BTL_1\BTL_1\obj\Debug\BTL_1.Login.resources
+C:\Users\admin88\source\repos\BTL_1\BTL_1\obj\Debug\BTL_1.Properties.Resources.resources
+C:\Users\admin88\source\repos\BTL_1\BTL_1\obj\Debug\BTL_1.csproj.GenerateResource.cache
+C:\Users\admin88\source\repos\BTL_1\BTL_1\obj\Debug\BTL_1.csproj.CoreCompileInputs.cache
+C:\Users\admin88\source\repos\BTL_1\BTL_1\obj\Debug\BTL_1.exe
+C:\Users\admin88\source\repos\BTL_1\BTL_1\obj\Debug\BTL_1.pdb
